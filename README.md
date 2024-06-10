@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @amadyreksio
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning (null)
 - 📫 How to reach me dominik@amadyreksio.pl
-- 😄 Pronouns: he/him
+- 😄 Pronouns: vb/net
 
 <!---
 amadyreksio/amadyreksio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
